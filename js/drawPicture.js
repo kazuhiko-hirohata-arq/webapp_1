@@ -13,7 +13,7 @@ function clearTable(table){
         }
     }
 }
-//test
+
 //描画関数
 function drawObject(Cell){
 
